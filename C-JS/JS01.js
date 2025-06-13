@@ -1,0 +1,1 @@
+/*Este es un comentario para un archivo JS*/
